@@ -3,7 +3,7 @@
 ::
 ::  Safely appends the path contained within variable pathVar to the end
 ::  of PATH if and only if the path does not already exist within PATH.
-::
+::------------------
 ::  If the case insensitive /B option is specified, then the path is
 ::  inserted into the front (Beginning) of PATH instead.
 ::
